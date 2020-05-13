@@ -1,0 +1,9 @@
+rootProject.name = 'design-patterns'
+include 'factory-method'
+include 'abstract-factory'
+include 'singleton'
+include 'prototype'
+include 'builder'
+include 'chain-of-responsibility'
+include 'command'
+
