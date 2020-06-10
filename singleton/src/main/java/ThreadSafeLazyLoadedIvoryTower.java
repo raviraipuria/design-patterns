@@ -6,7 +6,6 @@
  * in the same classloader</p>
  */
 public final class ThreadSafeLazyLoadedIvoryTower {
-
     private static ThreadSafeLazyLoadedIvoryTower instance;
 
     private ThreadSafeLazyLoadedIvoryTower() {

@@ -5,7 +5,6 @@
  * is developers responsibility.</p>
  */
 public enum EnumIvoryTower {
-
     INSTANCE;
 
     @Override
